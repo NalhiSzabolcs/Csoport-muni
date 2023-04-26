@@ -6,13 +6,6 @@ html{
 body{
 background-color: burlywood;
 }
-<<<<<<< HEAD
-=======
-body{
-  background-color: burlywood;
-}
-
->>>>>>> 15d0e277ba58d7efdd03615f11575b7b922cda55
 .bekezdes{
   background-color: burlywood;
   border: 3px brown solid;
@@ -23,7 +16,6 @@ h1{
   
 }
 .kep{    
-<<<<<<< HEAD
   background-color: burlywood;
 height: 100px;
 height: 300px;
@@ -35,17 +27,6 @@ div{
   background-color: burlywood;
   text-align: center;
   display: inline;
-=======
-    background-color: burlywood;
-height: 300px;
-border: 3px brown solid;
-display: block;
-}
-div{
-    background-color: burlywood;
-    text-align: center;
-    display: inline;
->>>>>>> 15d0e277ba58d7efdd03615f11575b7b922cda55
 }
 
 
@@ -74,7 +55,6 @@ background-color: rgb(92, 51, 5);
 }
 
 .right{
-<<<<<<< HEAD
 float: right;
 }
 
@@ -98,29 +78,4 @@ height: 350px;
 .asd{
 
 color: rgb(102, 5, 5);
-=======
- float: right;
-}
-
-table{
-  border:rgb(134, 23, 23) 4px solid;
-}
-
-.szoveg{
-  border:3px solid rgb(177, 146, 100);
-  color:rgb(43, 28, 28);
-  text-align: left;
-}
-
-.left{
-  float: left;
-}
-.kep2{
-  height: 350px;
-}
-
-.asd{
-  
-  color: rgb(102, 5, 5);
->>>>>>> 15d0e277ba58d7efdd03615f11575b7b922cda55
 }

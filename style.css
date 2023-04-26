@@ -6,6 +6,8 @@ html{
 body{
 background-color: burlywood;
 }
+
+
 .bekezdes{
   background-color: burlywood;
   border: 3px brown solid;
@@ -78,4 +80,8 @@ height: 350px;
 .asd{
 
 color: rgb(102, 5, 5);
+}
+
+.list{
+  border: brown 3px solid;
 }

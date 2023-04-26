@@ -1,0 +1,87 @@
+html{
+    background-color: burlywood;
+    margin: 5px;
+    display: inline;
+  }
+  body{
+  background-color: burlywood;
+  }
+  
+  
+  .bekezdes{
+    background-color: burlywood;
+    border: 3px brown solid;
+    box-shadow: 3px;
+  }
+  h1{
+    color: chocolate;
+    
+  }
+  .kep{    
+    background-color: burlywood;
+  height: 100px;
+  height: 300px;
+  border: 3px brown solid;
+  
+  display: block;
+  }
+  div{
+    background-color: burlywood;
+    text-align: center;
+    display: inline;
+  }
+  
+  
+  menu{
+    display: flex;
+  }
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(155, 120, 6);
+  }
+  li {
+  float: left;
+  }
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  li a:hover {
+  background-color: rgb(92, 51, 5);
+  }
+  
+  .right{
+  float: right;
+  }
+  
+  table{
+  border:rgb(134, 23, 23) 4px solid;
+  }
+  
+  .szoveg{
+  border:3px solid rgb(177, 146, 100);
+  color:rgb(43, 28, 28);
+  text-align: left;
+  }
+  
+  .left{
+  float: left;
+  }
+  .kep2{
+  height: 350px;
+  }
+  
+  .asd{
+  
+  color: rgb(102, 5, 5);
+  }
+  
+  .list{
+    border: brown 3px solid;
+  }

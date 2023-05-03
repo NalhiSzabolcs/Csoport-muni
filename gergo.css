@@ -53,3 +53,28 @@ h2{
     font-size: 200%;
     color: #EA445A; 
 }
+
+menu{
+    display: flex;
+  }
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(155, 120, 6);
+  }
+  li {
+  float: left;
+  }
+  li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
+  li a:hover {
+  background-color: rgb(92, 51, 5);
+  }
+  

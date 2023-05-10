@@ -1,90 +1,92 @@
 h1{
-    text-align: center;
-    color: #2568FB;
+  text-align: center;
+  color: #2568FB;
 }
 body{
-    background-color: #FECD45;
-    text-align: center;
-    margin: auto;
-    padding: 5px;
-    
+  background-color: #FECD45;
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+
 }
 
 p{
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 14px;
-    text-align: justify;
-    text-indent: 15pt;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-align: justify;
+  text-indent: 15pt;
 }
 
 #kep1{
-    width: 150%;
-    margin: auto;
-    display: block;
-    border-radius: 1cm;
+  width: 50%;
+  margin: auto;
+  display: block;
+  border-radius: 1cm;
 }
 
 .centercucc{
-    text-align: center;
+  text-align: center;
 }
 #nagy{
-    color: #F92C85;
-    font-size: 30px;
+  color: #F92C85;
+  font-size: 30px;
 }
 
 li{
-    color: blue;
+  color: blue;
 }
 
 p:hover{
-    font-size: 95%;
-    border-style: groove;
-    border-color: #F92C85;
-    border-radius: 0.5cm;
-    background-color: white;
+  font-size: 95%;
+  border-style: groove;
+  border-color: #F92C85;
+  border-radius: 0.5cm;
+  background-color: white;
 }
 
 #kep2{
-    margin: auto;
-    display: block;
-    border-radius: 1cm;
+  margin: auto;
+  display: block;
+  border-radius: 1cm;
 }
 
 h2{
-    text-align: center;
-    font-size: 200%;
-    color: #EA445A; 
+  text-align: center;
+  font-size: 200%;
+  color: #EA445A; 
 }
 
 menu{
-    display: flex;
-  }
-  ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: rgb(155, 120, 6);
-  position: fixed;
-  }
-  li {
-  float: left;
-  }
-  li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  }
-  li a:hover {
-  background-color: rgb(92, 51, 5);
-  }
-  table{     margin-left:auto; 
-  margin-right:auto;
+  display: flex;
+}
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(155, 120, 6);
+position: fixed;
+}
+li {
+float: left;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover {
+background-color: rgb(92, 51, 5);
+}
+table{     margin-left:auto; 
+margin-right:auto;
 }
 
-  ol {margin-left:auto; 
-    margin-right:auto;}
-  img {padding: 5px};
-
+ol {margin-left:auto; 
+  margin-right:auto;}
+img {padding: 5px;
+margin: auto;
+display: block;
+}
